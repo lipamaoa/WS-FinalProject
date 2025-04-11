@@ -1,7 +1,5 @@
 # Ristorante Italiano - Restaurant Management System
 
-![Ristorante Italiano Logo](public/images/italian-restaurant-logo.png)
-
 A comprehensive restaurant management system for Ristorante Italiano, an authentic Italian restaurant. This web application allows customers to browse the menu and place orders, kitchen staff to manage food preparation, and managers to update the menu and oversee operations.
 
 ## Features
