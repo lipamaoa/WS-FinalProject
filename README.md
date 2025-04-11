@@ -64,7 +64,7 @@ The system comes with three pre-configured user accounts for testing:
 | Role | Email | Password |
 |------|-------|----------|
 | Manager | manager@restaurant.com | 123456 |
-| Consumer | consumer@restaurant.com | 123456 |
+| Consumer | costumer@restaurant.com | 123456 |
 | Kitchen | kitchen@restaurant.com | 123456 |
 
 ### User Roles and Functionality
